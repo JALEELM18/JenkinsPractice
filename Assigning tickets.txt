@@ -1,0 +1,559 @@
+	
+Incident: 1814626 - YBEDUN password in E1 - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1812247 - | New user request for: | Request from: EszterPage@berryglobal.com  - Assigned to Northern EU Help Desk
+
+	
+Incident: 1814683 - RF smart - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1814678 - Extraction des UOM E1 - - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1814737 - Reset password for AGUILBERT in JDE E1 - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1814712 - Problem with printer in E1 - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1814739 - Screen not working - Assigned to Callum summers
+
+	
+Incident: 1814716 - Brandon Brown - Assigned to Regan Woodard
+
+	
+Incident: 1814745 - Accès "traçabilité Erema" - Assigned to Northern EU Help Desk
+
+	
+Incident: 1814746 - Accès fichier Access - Assigned to Northern EU Help Desk
+
+	
+Incident: 1814748 - Sharepoint access (ZPPH Sharepoint) - all PHMUMA users - Assigned to Communications
+
+Incident: 1814752 - Régénéré sur machine  - Assigned to Northern EU Help Desk
+
+Incident: 1814749 - Cahier Rouge - Assigned to Northern EU Help Desk
+
+	
+Incident: 1814755 - RF Smart problem - - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1814345 - FW: Completion of T2406-5573 - RPC Password Expiry Warning for: brajos in rpc-gro - Assigned to Boddu Pravallika
+
+	
+Incident: 1813749 - Password expired & Microsoft Entra - Assigned to Global Data & Analytics
+
+	
+Incident: 1814742 - RE: Case: CS1429355, description: T2405-1991 URL Filtering Issues, has been updated. T2405-1991 - Assigned to Network - EMEIA
+
+	
+Incident: 1814705 - RE: Case: CS1429355, description: T2405-1991 URL Filtering Issues, has been updated. T2405-1991 -- Assigned to Network - EMEIA
+
+Incident: 1814653 - RE: Case: CS1429355, description: T2405-1991 URL Filtering Issues, has been updated. T2405-1991 - Assigned to Network - EMEIA
+
+Incident: 1814771 - Power BI web access - Assigned to Communications
+
+	
+Incident: 1814775 - Downloading an email folder - Assigned to Communications
+
+Incident: 1814810 - Name - - Assigned to Communications
+
+Incident: 1814830 - mailbox permissions - Assigned to Communications
+
+	
+Incident: 1814907 - TEAMS CHAT - Communications
+
+	
+Incident: 1814969 - | New user request for: | Request from: RobertJohansson@berryglobal.com | Approved by: MadeleneBjork@berryglobal.com | User's name: EmmaHyllenstrand |- Assigned to Boddu Pravallika
+
+	
+Incident: 1814990 - Problem with JDE E1 printing - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1814961 - EMERGENCY delivery note automatic - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1812247 - | New user request for: | Request from: EszterPage@berryglobal.com | Approved by: horacedickinson@berryglobal.com | User's name: FelixStafford |
+ Customer & Owner - Assigned to Jaleel Mohammed
+
+
+Incident: 1814891 - Issue on Infinium access - URGENT - assigned to - HR - Infinium - Self Service
+
+Incident: 1814977 - Access to share inbox - Assigned to Help Desk Level1
+
+	
+Incident: 1815094 - RE: NAV Team - please update the credit request user code for Dumfries/Plaswood complaints - - Assigned to ERP - Navision
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1815481 - Daily report on the progress of Active Directory Update on 18-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1822734 - Daily report on the progress of Active Directory Update on 30-Sep-2024 - Assigned to Systems - EMEIA
+
+Incident: 1815493 - Software maintenance for tracking number C2077426 scheduled for 19 October 2024 -  Assigned to Help Desk Level 1
+	
+Incident: 1812247 - | New user request for: | Request from: EszterPage@berryglobal.com | Approved by: horacedickinson@berryglobal.com | User's name: FelixStafford | - Resolved
+	
+Incident: 1815555 - Supplier TN No: AAA987926011, Supplier Name: Berry BPI Packaging Solutions - Worcester, File Name: 5050085035041_INC134851_invoic.txt_18-09-2024_07-19-37-782_A - -  Assigned to ERP - Navision
+	
+Incident: 1815554 - Supplier TN No: AAA987926011, Supplier Name: Berry BPI Packaging Solutions - Worcester, File Name: 5050085035041_INC134851_invoic.txt_18-09-2024_07-19-37-782_A -  Assigned to ERP - Navision
+	
+Incident: 1815568 - Supplier TN No: AAA987926011, Supplier Name: Berry BPI Packaging Solutions - Wor -  Assigned to ERP - Navision
+	
+Incident: 1815569 - Supplier TN No: AAA987926011, Supplier Name: Berry BPI Packaging Solutions - Worcester, File Name: 00318450.TXT_18-09-2024_07-41-47-368_A - -  Assigned to ERP - Navision
+
+Incident: 1815575 - VPN profile - Assigned to Network - EMEIA
+	
+Incident: 1815566 - German Conversion Required : Reports -  Assigned to ERP - Navision
+	
+Incident: 1815201 - Install VPN Any connect for marine Sueur - Assigned to Help Desk Level1
+	
+Incident: 1815585 - shortage report - Assigned to Paul Matthews
+	
+Incident: 1815587 - Outlook quick steps not working properly anymore - Assigned to Communications
+
+Incident: 1815562 - TR: mail test Xavier reception - Assigned to Communications
+
+Incident: 1812406 - Setup New DPC printer - Assigned to Sam Da Silva Fortunato
+	
+Incident: 1815621 - 1809075 : NAV2016_NF_DE_PROD NAV *LIVE* Updates 19/09/24 (BPI-DE1.45) -  Assigned to ERP - Navision
+
+Incident: 1815623 - TEAMS CHAT - Assigned to Communications
+	
+Incident: 1814980 - PR Laptop Battery - Assigned to Help Desk Level1
+	
+Incident: 1815182 - Users to be added to AD Groups for access to Icertis - Assigned to Help Desk Level1
+	
+Incident: 1815262 - HP ACCOUNT STATEMENT-- Berry Global - 260849645 - GB15 - Assigned to JDE E1 - EMEIA
+
+Incident: 1815641 - FW: Microsoft licentie - Assigned to Help Desk Level1
+	
+Incident: 1815663 - Microsoft Authenticator - Assigned to Communications
+
+Incident: 1815721 - E1 request - Assigned to JDE E1 - EMEIA
+
+Incident: 1815769 - VPN application won't work for user - Assigned to Network - EMEIA
+
+Incident: 1815972 - Notification - Assigned to ERP - Navision
+	
+Incident: 1815971 - Notification - Assigned to ERP - Navision
+
+Incident: 1815970 - Notification - Assigned to ERP - Navision
+
+Incident: 1816007 - FW: TOPdesk SaaS Status page Incident - RESOLVED: Performance Issues for UK1 environments - 23 August 2024 - Assigned to Boddu Pravallika
+
+	
+Incident: 1816002 - PRINTS SAGE VIEWER - Assigned to Paul Matthews
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+	
+Incident: 1816496 - | New user request for: | Request from: ZACARIASLEVISTEJR@berryglobal.com | Approved by: DhonSunaz@berryglobal.com | User's name: JaymarkAldovino |
+- Resolved by Jaleel Mohammed
+
+Incident: 1816490 - | New user request for: | Request from: ZACARIASLEVISTEJR@berryglobal.com | Approved by: DhonSunaz@berryglobal.com | User's name: JenryCid |
+ Customer & Owner  - Resolved by Jaleel Mohammed
+
+	
+Incident: 1816675 - UAR Rejection - PACK2000 - Access Review / Removal (REC-0001310) - ERP - Pack2000
+
+	
+Incident: 1816674 - UAR Rejection - PACK2000 - Access Review / Removal (REC-0001254) - ERP - Pack2000
+
+	
+Incident: 1816666 - UAR Rejection - PACK2000 - Access Review / Removal (REC-0001208) - ERP - Pack2000
+
+	
+Incident: 1816665 - UAR Rejection - PACK2000 - Access Review / Removal (REC-0001170) - ERP - Pack2000
+
+Incident: 1816757 - Re: Microsoft licentie - Assigned to Communications
+
+	
+Incident: 1816791 - Problems with AX pallet label printing -  Assigned to ERP Support
+
+
+Incident: 1816825 - Sean Parker on Oakham site group email - please remove - Assigned to Communications
+
+	
+Incident: 1816835 - Not possible to production report into AX - Assigned to ERP - Support
+
+	
+Incident: 1816852 - eWon Rychiger production line no connection - Assigned to Systems - EMEIA\
+
+Incident: 1816411 - Daily report on the progress of Active Directory Update on 19-Sep-2024 - Assigned to Systems - EMEIA
+
+Incident: 1816285 - Application or service 'LabelPrintSvc' is not running or not reachable (INCLUDIS_THE) 9/18/2024 9:31:20 PM (RPC Verpackungen - Theeßen) - Central EU Help Desk
+
+	
+Incident: 1816209 - Application or service 'CycletimeExporter' is not running or not reachable (INCLUDIS_THE) 9/18/2024 8:05:28 PM (RPC Verpackungen - Theeßen) - Central EU Help Desk
+
+Incident: 1816384 - Fwd: RDP Decommission - Assigned to Security - EMEIA
+
+
+iagocaspao@berryglobal.com - Not able to connect to wifi - 1816556
+Kimberley bryson@berryglobal.com - Citrix issue - 1816523
+Transfer call to Lee robinson
+Kennethmckenzie@berryglobal.com - Citrix issue screen got frozen - 1816587
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1817300 - Daily report on the progress of Active Directory Update on 20-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1817324 - Job Queue Run Status for Industrial Error when processing 'BatchInvoice Create + Post'. - Assigned to ERP Navision
+
+Incident: 1817347 - RE: Orders - IT - Project & Vendor Management
+
+Incident: 1817376 - LP¨COMMANDE 24003827 - JDE E1 - EMEIA
+
+
+Incident: 1817432 - New change request for RF Smart in relation to LP Bulk Cycle Count - 	
+JDE E1 - EMEIA
+	
+Incident: 1817475 - Job Title on Emails - Assigned to Callum summers
+
+Incident: 1817567 - TR: Modif client BDD - Assigned to Northern EU Help Desk
+
+Incident: 1817587 - Users to be added to AD Groups for access to Icertis -  Assigned to Help Desk - Level 1
+
+	
+Incident: 1817611 - File not updating - Assigned to Global Data & Analytics
+
+ncident: 1815681 - Request for 2 Tablets - Help Desk - Level 1
+
+	
+Incident: 1817347 - RE: Orders - Assigned to ERP - Navision 2009
+
+Incident: 1817400 - Please reset PW for RemoteApp user: rpc-group\chatra - Resolved by Jaleel Mohammed
+
+Incident: 1816968 - | New user request for: | Request from: JackyVuarchex@berryglobal.com | Approved by: PhilippeRumiano@berryglobal.com | User's name: ClovisPERRIN-BONNET | - Resolved by Jaleel Mohammed
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Incident: 1818121 - Daily report on the progress of Active Directory Update on 23-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1818034 - Daily report on the progress of Active Directory Update on 22-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1817932 - Daily report on the progress of Active Directory Update on 21-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1818137 - reset JDE E1 Password - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1817953 - Application or service 'LabelPrintSvc' is not running or not reachable (INCLUDIS_NEU) 9/21/2024 9:39:53 AM (Promens Packaging GmbH - Neumünster) - Assigned to Central EU Help Desk
+
+
+
+	
+Incident: 1818165 - Issue to connect in Outlook 2016 -  Assigned to Communications
+
+	
+Incident: 1818208 - FW: Survey for Incident 1815826 - FW: Job Queue Run Status for Films Error when processing 'CRM Sync Job Failures'. - Assigned to ERP - Navision
+
+Incident: 1818207 - FW: Survey for Incident 1816518 - FW: Job Queue Run Status for Stretch Films Error when processing 'CRM Sync Job Failures'. - Assigned to ERP - Navision
+
+Incident: 1818266 - Sage - GRNI clear up -  Assigned to ERP - support
+
+	
+Incident: 1818291 - RE: Incident# 1809304 - SPG on Capacity Ledger entries Item ledger entries -  Assigned to ERP - Navision
+
+	
+Incident: 1818319 - RE: User without Employee - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1818201 - AX werkt niet - Assigned to ERP - Support
+
+	
+Incident: 1818450 - Iphone reset - Assigned to Security - EMEIA
+
+	
+Incident: 1817587 - Users to be added to AD Groups for access to Icertis - Resolved by Jaleel Mohammed
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1819091 - Outputs to incorrect Line-NAVISION - Assigned to ERP - Navision
+
+Incident: 1818867 - Re incident no 1818827 Business critical - Assigned to Site IT
+
+	
+Incident: 1819131 - Incident no 1817644 + 1818235 - Assigned to ERP - Support
+
+	
+Incident: 1819197 - INDUSTRIAL COMPLAINTS WITH SPG V2.xlsx - Assigned to ERP - Navision
+
+	
+Incident: 1819212 - Issue with Microsoft authenticator - Assigned to Communications - ON Call
+
+	
+Incident: 1819214 - After Market card - Check local system 0 on sagevm05-ilo.rpc-group.net is Warning - Assigned to Systems - EMEIA
+
+	
+Incident: 1819220 - Palletisation pattern not transferring - Assigned to ERP - Navision
+
+	
+Incident: 1819185 - Warehouse Phones - Assigned to Communications
+
+Incident: 1819183 - Cambios en fichas de personal (outlook) - Assigned to Communications
+
+Incident: 1818668 - Add Power apps Premium Licences - Assigned to PowerApps - Service Support
+
+	
+
+
+	
+Incident: 1819533 - UPS: Self-Test passed. - Closed as notification
+
+Incident: 1819532 - UPS: Self-Test started by automatic timer. - Closed as notification
+
+	
+Incident: 1818807 - Unresolved Tickets - Assigned to Central EU Help Desk
+
+	
+Incident: 1819536 - prod order register scrap booking - Assigned to Sam Da Silva Fortunato
+
+Incident: 1819175 - Not able to Login to Laptop - Resolved by Jaleel Mohammed
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1819956 - Good Morning Still no Purchasing printer working nor Sage Print Viewer. Can you please advise ASAP as this is causing a major issue to us. * * * * * DO NOT DELETE * * * * * Computer Name: 05GBLP-8WJL IP Address: 10.16.1.53 Use - Assigned to ERP - Support
+
+Incident: 1819994 - Supplier TN No: AAA987926011, Supplier Name: Berry BPI Packaging Solutions - Worcester, File Name: 00318677.TXT_25-09-2024_07-42-59-283_A - Assigned to Systems - EMEIA
+
+	
+Incident: 1819993 - Supplier TN No: AAA987926011, Supplier Name: Berry BPI Packaging Solutions - Wo - Assigned to Systems - EMEIA
+
+Incident: 1820007 - Network maintenance for tracking number C2086446 scheduled for 27 October 2024
+
+	
+Incident: 1819990 - Incident 1817644 - Assigned to ERP - Support
+
+
+
+	
+Incident: 1820007 - Network maintenance for tracking number C2086446 scheduled for 27 October 2024 - - Closed as notification
+
+	
+Incident: 1820303 - RE: Mail Silvia Ruiz -  Assigned to Software - Office 365
+
+	
+Incident: 1820188 - Appel alarme - Assigned to Site IT
+
+	
+Incident: 1820204 - 'Unauthenticated battery' system message - Assigned to Systems - EMEIA
+
+Incident: 1820130 - Unable to open Microsoft teams - Assigned to Software - Office 365
+
+	
+Incident: 1819984 - New User Request 01660 - Assigned to Memona Tahir
+
+	
+Incident: 1820497 - Notification - Closed Notifications
+
+	
+Incident: 1820496 - Notification - Closed Notifications
+
+	
+Incident: 1820143 - customer price file program - Assigned to Paul Matthews
+
+	
+Incident: 1820542 - Log onto new laptop - Assigned to Jaleel Mohammed
+
+	
+Incident: 1820581 - Shared Mailbox -  Assigned to Software - Office 365
+ 
+
+Incident: 1809819 - Disable/Delete Account - Resolved by Jaleel Mohammed
+
+------------------------------------------------------------------------------------------------------------------
+	
+Incident: 1820921 - Politex 1 Dislpay/Fernseher? defect - Assigned to Central EU Help Desk
+
+	
+Incident: 1820920 - Kein Internet im Nordfolien Desktop Talea Dieckmann - Assigned to Central EU Help Desk
+
+	
+Incident: 1820919 - Keine LAN Verbindung Sven Brinkmann - Assigned to Central EU Help Desk
+
+Incident: 1820793 - FW: Connect With Kevin | Berry Operating System - Closed Notification
+
+	
+Incident: 1820925 - Daily report on the progress of Active Directory Update on 25-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1820756 - USD - Assigned to ERP - Navision
+
+	
+Incident: 1820719 - Berry Brazil | CapEx Request - Assigned to Help Desk - Level 1
+
+Incident: 1820872 - Nightly Terms Rpt (BP Software - Sales Cloud) - Closed Notification.
+	
+Incident: 1821137 - TR: accès Valerie AUtem - Assigned to Software - Office 365
+
+	
+Incident: 1821119 - New Laptop Request - Assigned to IT - Project & Vendor Management
+
+Incident: 1821110 - Missing internal invoice from WET to HAM/LOM - Assigned to 	ERP - Pack2000
+
+	
+Incident: 1821083 - access tool - Assigned to Prince
+
+	
+Incident: 1821075 - for Communication: Tenant (Auth) issue wo MFA - Assigned to Boddu Pravallika
+
+	
+Incident: 1821110 - Missing internal invoice from WET to HAM/LOM - Assigned to ERP - Pack2000
+
+	
+Incident: 1821316 - Demand access to one drive - Assigned to Software - Office 365
+
+	
+Incident: 1821360 - FW: Aanvraag laptop - Assigned to IT - Project & Vendor Management
+
+	
+Incident: 1821906 - Pop up message - Resolved by Jaleel Mohammed
+
+	
+Incident: 1821916 - Monitors - Assigned to IT - Project & Vendor Management
+
+
+
+	
+Incident: 1819289 - Issue with VPN disconnecting - Resolved by Jaleel Mohammed
+
+Incident: 1816630 - Opening Link Issue - Resolved by Jaleel Mohammed
+
+Incident: 1820309 - mail to admin204 URGENT - Resolved by Jaleel Mohammed
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1821744 - Daily report on the progress of Active Directory Update on 27-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1821599 - Fw: EOL Server transfer of ownership - Assigned to Paul Matthews
+
+	
+Incident: 1821492 - RE: Incident 1821111 has been assigned to you - Assigned to JDE - EMEIA
+
+	
+Incident: 1821727 - Nightly Terms Rpt (BP Software - Sales Cloud) - Closed notification
+
+	
+Incident: 1814902 - Kruszwica Indicative Full Scope BoM - Assigned to IT - Project & Vendor Management
+
+	
+Incident: 1821799 - FW: HD Jazz pellet - WO in NAV - Assigned to ERP - Navision
+
+	
+Incident: 1821441 - Users to be added to AD Groups for access to Icertis - Assigned to Ignacio Devers
+
+	
+Incident: 1821163 - | New user request for: | Request from: TessaVispoel@berryglobal.com | Approved by: | User's name: JaroVander Cruyssen | - Resolved by Jaleel Mohammed
+
+	
+Incident: 1821894 - Navision - Films - Assigned to ERP - Navision
+
+ncident: 1822008 - RE: BERRY GLOBAL - Invoice No: 6270 T2401-4892 - Assigned to ERP - Navision
+
+
+
+shonathomson@berry
+
+07831884125
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1822734 - Daily report on the progress of Active Directory Update on 30-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1822613 - Daily report on the progress of Active Directory Update on 29-Sep-2024 - Assigned to Systems - EMEIA
+
+	
+Incident: 1822448 - Daily report on the progress of Active Directory Update on 28-Sep-2024 - Assigned to Systems - EMEIA
+
+Incident: 1822713 - Nightly Terms Rpt (BP Software - Sales Cloud) - Closed Notifications
+
+	
+Incident: 1822603 - Nightly Terms Rpt (BP Software - Sales Cloud) - Closed Notifications
+
+Incident: 1822361 - Capex Approver Substitution | Berry CPI Brazil - Assigned to Help Desk Level 1
+
+	
+Incident: 1822467 - No AX in Kristiansand - Assigned to ERP - Support
+
+	
+Incident: 1822765 - DATALINX New User Rebecca Walker - Assigned to ERP - Support
+
+	
+Incident: 1822791 - Job Queue Run Status for Recycled Error when processing 'CRM Sync Job Failures'. - Assigned to ERP - Navision
+
+Incident: 1822787 - Recycling WO : WR0210856 Wrong Location - Assigned to ERP - Navision
+
+
+Incident: 1822888 - FW: Licence Plate Yearly Update Requirement - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1797483 - Access to file - Assigned to Prince 
+
+
+
+Incident: 1822941 - NAV Team - contacts to be updated - Assigned to ERP - Navision
+
+	
+Incident: 1822944 - FW: edi invoice 24001161 30/09/24 - Assigned to JDE E1 - EMEIA
+
+
+	
+Incident: 1822946 - RE: Loading schedule for 2/10 - Assigned to ERP - Support
+
+	
+Incident: 1821077 - Remove Power BI Pro Licenses - Assigned to Software - Office 365
+
+Incident: 1823040 - E1 Issue - SH Orders Not Invoiced - Assigned to JDE E1 - EMEIA
+
+	
+Incident: 1823091 - Re: Congos / Parking Lot - Support Tickets - Assigned to Global Data & Analytics
+
+	
+Incident: 1823091 - Re: Congos / Parking Lot - Support Tickets - Assigned to Global Data & Analytics
+
+	
+Incident: 1823051 - Software update required -  Resolved by Jaleel Mohammed
+
+	
+Incident: 1822355 - Users to be added to AD Groups for access to Icertis - Resolved by Jaleel Mohammed
+
+
+	
+Incident: 1822828 - Citrix - Resolved by Jaleel Mohammed
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+Incident: 1824034 - | New user request | Request from: MaxReichel@berryglobal.com | No Auto Approval aquired | New User's name: Karolina Karpowicz - Assigned to Central EU Help Desk
+
+	
+Incident: 1824031 - | New user request for: | Request from: RuedigerPresche@berryglobal.com | Approved by: | User's name: IliyanaPetrova | - Assigned to Central EU Help Desk
+
+Incident: 1824013 - RE: Loading schedule for 3/10. - Closed Notifications
+
+	
+Incident: 1824140 - PO Request for renewal of Safety Hub Videos - Assigned to Regan Woodard
+
+	
+Incident: 1824132 - FW: GB01APP156 and GB01APP155 Regional & date format - Assigned to Systems - EMEIA
+
+
+
+
+
